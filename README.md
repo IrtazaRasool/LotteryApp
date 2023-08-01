@@ -1,16 +1,38 @@
-# lottery_app
+# Lottery App
 
-A new Flutter project.
+This Flutter app simulates a basic lottery game where the user can try their luck and check if their number matches the winning number. The winning number is pre-set to 4, and when the user taps the refresh button (floating action button), a random number between 0 and 9 is generated. The app then informs the user whether their number matches the winning number or not.
+
+## Screenshots
+
+
+![Red](https://github.com/IrtazaRasool/LotteryApp/assets/141081749/248315a1-b913-4e69-8e44-df415f467569)
+
+## Features
+
+- Displays the winning number as 4.
+- Generates a random number between 0 and 9 on the button tap.
+- Notifies the user if their number matches the winning number or not.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Make sure you have Flutter and Dart installed on your development machine. You can find installation instructions [here](https://flutter.dev/docs/get-started/install).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone this repository to your local machine using `git clone https://github.com/your-username/lottery_app.git`.
+2. Open the project in your preferred IDE or editor.
+
+### Running the App
+
+1. Connect your device/emulator to your machine.
+2. Run the app using `flutter run` in the terminal or use the "Run" button in your IDE.
+
+## Dependencies
+
+The app uses the following packages:
+
+- `flutter/material.dart`: Provides the Flutter framework and widgets.
+- `dart:math`: For generating random numbers.
+
