@@ -11,6 +11,9 @@ This Flutter app simulates a basic lottery game where the user can try their luc
 ![Green](https://github.com/IrtazaRasool/LotteryApp/assets/141081749/be630798-5299-4089-aef8-7c688493ae0d)
 
 
+
+<img src="![Green](https://github.com/IrtazaRasool/LotteryApp/assets/141081749/0829637f-8011-429f-a4ef-fc0831f83ac2)" style="width:300px;">
+
 ## Features
 
 - Displays the winning number as 4.
