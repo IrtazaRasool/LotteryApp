@@ -36,6 +36,6 @@ The app uses the following packages:
 - `flutter/material.dart`: Provides the Flutter framework and widgets.
 - `dart:math`: For generating random numbers.
 
-Credits
+## Credits
 Irtaza Rasool Khan
 
