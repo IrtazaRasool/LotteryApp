@@ -4,10 +4,7 @@ This Flutter app simulates a basic lottery game where the user can try their luc
 
 ## Screenshots
 
-<img src="https://github.com/IrtazaRasool/LotteryApp/assets/141081749/248315a1-b913-4e69-8e44-df415f467569" width="100" height="100"
-
-![Red](https://github.com/IrtazaRasool/LotteryApp/assets/141081749/248315a1-b913-4e69-8e44-df415f467569 =250x250)
-
+<img src="https://github.com/IrtazaRasool/LotteryApp/assets/141081749/56246af9-1ec7-4ea6-82dc-420075a84dc2" style="width:300px;">
 <img src="https://github.com/IrtazaRasool/LotteryApp/assets/141081749/0829637f-8011-429f-a4ef-fc0831f83ac2" style="width:300px;">
 
 ## Features
